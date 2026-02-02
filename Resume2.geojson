@@ -114,7 +114,7 @@
                 "ExperienceType": "Job",
                 "Description": "Work efficiently and collaboratively in a fast paced kitchen environment, Produce high quality consistent food and drinks while maintaining customer service",
                 "Year": "2021-2022",
-                 "YearTruncated": 2021
+                "YearTruncated": 2021
             },
             "geometry": {
                 "coordinates": [
@@ -132,7 +132,7 @@
                 "ExperienceType": "Job",
                 "Description": "Data collection and political canvassing in relation to the November 2020 presidential and senatorial election.",
                 "Year": 2020,
-                 "YearTruncated": 2020
+                "YearTruncated": 2020
             },
             "geometry": {
                 "coordinates": [
@@ -149,7 +149,7 @@
                 "ExperienceType": "Job",
                 "Description": "Currently ranked #1 restaurant in Boston, Operate as a team member in a fast paced and highly detail oriented kitchen",
                 "Year": "2018-2019",
-                 "YearTruncated": 2018
+                "YearTruncated": 2018
             },
             "geometry": {
                 "coordinates": [
@@ -166,7 +166,7 @@
                 "ExperienceType": "Research",
                 "Description": "Assist in designing experiments relating to bioinformatics and next-generation sequencing.",
                 "Year": "2017-2018",
-                 "YearTruncated": 2017
+                "YearTruncated": 2017
             },
             "geometry": {
                 "coordinates": [
@@ -183,7 +183,7 @@
                 "ExperienceType": "Volunteer",
                 "Description": "Aid in supplying UofT community through partnership with FoodShare TO, Grant writing, Work with task group to develop advocacy and community involvement initiatives",
                 "Year": "2021-2022",
-                 "YearTruncated": 2021
+                "YearTruncated": 2021
             },
             "geometry": {
                 "coordinates": [
@@ -201,7 +201,7 @@
                 "ExperienceType": "Volunteer",
                 "Description": "Bicycle repair and maintenance. ",
                 "Year": "2021-2024",
-                 "YearTruncated": 2021
+                "YearTruncated": 2021
             },
             "geometry": {
                 "coordinates": [
@@ -219,7 +219,7 @@
                 "ExperienceType": "Volunteer",
                 "Year": 2021,
                 "Description": "Weekly fridge cleaning and maintenance.",
-                 "YearTruncated": 2021
+                "YearTruncated": 2021
             },
             "geometry": {
                 "coordinates": [
@@ -237,7 +237,7 @@
                 "ExperienceType": "Job",
                 "Year": "2024-2025",
                 "Description": "Geospatial data editing for MassGIS's Protected OpenSpace data layer,Background research in state and municipal databases including deeds + state legislation + maps + plans + and surveys,Update internal government land acquisition records and sync information with accurate geometry and attribute information in OpenSpace,Synthesize field data + tax assessor parcels + coordinate geometry + LIDAR + hydrological data and transportation data to represent accurate legal boundaries,Work within an Oracle relational database management system",
-                 "YearTruncated": 2024
+                "YearTruncated": 2024
             },
             "geometry": {
                 "coordinates": [
@@ -255,7 +255,7 @@
                 "ExperienceType": "Extra-Curricular",
                 "Description": "In-person tutoring and production of instructional documents for the Seneca College course: Geospatial Data Collection + Analysis & Interpretation using GIS Technology",
                 "Year": "2023-2024",
-                 "YearTruncated": 2023
+                "YearTruncated": 2023
             },
             "geometry": {
                 "coordinates": [
@@ -274,7 +274,7 @@
                 "Description": "Design and perform study analyzing environmental drivers of vegetative senescence in Veratrum californicum using remote sensing and en situ data collection,Quadrat sampling using: a Trimble GeoXT 6000 + HOBO Pendant Temperature/Light Data Loggers and FieldScout TDR 150 Soil Moisture Meter, RS Imagery: classified vegetation raster + digital elevation model and an imagery raster with blue + green + red + near-infrared + red-edge and thermal bands,Creation of senescence rasters for Veratrum californicum by masking NIR and red-edge bands by the vegetative extent drawn from classified imagery and calculating NDVI, Spatial and non-spatial regressions using Rstudio and ArcGIS.",
                 "Year": "2023",
                 "URL": "https://ecce.esri.ca/uoft-blog/2024/01/15/remote-and-direct-sensing/",
-                 "YearTruncated": 2023
+                "YearTruncated": 2023
             },
             "geometry": {
                 "coordinates": [
@@ -291,7 +291,7 @@
                 "ExperienceType": "Research",
                 "Description": "Group research project (seven students from course and three MealCare organizers) surrounding a community partnership with MealCare-an organization working to redistribute surplus food around the city of Toronto minimizing waste and addressing food insecurity, Project primarily centered on semi-structured interviewing of potential donors and beneficiaries to improve the efficiency and reach of MealCare’s programming, Created web map depicting MealCare’s spatial capacity and highlighting potential hotspots for both food donors and beneficiaries.",
                 "Year": "2023-2024",
-                 "YearTruncated": 2023
+                "YearTruncated": 2023
             },
             "geometry": {
                 "coordinates": [
@@ -308,7 +308,7 @@
                 "ExperienceType": "Extra-Curricular",
                 "Description": "Weekly training to support volunteer work with the University of Toronto Emergency Food Bank, Group seminars with local organizers, discussing advocacy and effective organizing",
                 "Year": "2021",
-                 "YearTruncated": 2021
+                "YearTruncated": 2021
             },
             "geometry": {
                 "coordinates": [
@@ -325,7 +325,7 @@
                 "ExperienceType": "Extra-Curricular",
                 "Description": "One month intensive Swedish language course",
                 "Year": "2024",
-                 "YearTruncated": 2024
+                "YearTruncated": 2024
             },
             "geometry": {
                 "coordinates": [
@@ -336,27 +336,22 @@
             }
         },
         {
-  "type": "Feature",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-"Name": "Stockholm University: Freestanding Courses in Geomatics MSc",
-                "ExperienceType": "Education",
-                "Description": "GE7089 - Geographic Analysis and Visualization in GIS, GE7090 - Advanced Remote Sensing",
-                "Year": "2026",
-                 "YearTruncated": 2026
 
-      },
-      "geometry": {
-        "coordinates": [
-          18.05718179640519,
-          59.365469160661064
-        ],
-        "type": "Point"
-      }
-    }
-  ]
-}
-    ]
-}
+                    "type": "Feature",
+                    "properties": {
+                        "Name": "Stockholm University: Freestanding Courses in Geomatics MSc",
+                        "ExperienceType": "Education",
+                        "Description": "GE7089 - Geographic Analysis and Visualization in GIS, GE7090 - Advanced Remote Sensing",
+                        "Year": "2026",
+                        "YearTruncated": 2026
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            18.05718179640519,
+                            59.365469160661064
+                        ],
+                        "type": "Point"
+                    }
+                }
+            ]
+        }
