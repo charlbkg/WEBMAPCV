@@ -334,6 +334,29 @@
                 ],
                 "type": "Point"
             }
-        }
+        },
+        {
+  "type": "Feature",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+"Name": "Stockholm University: Freestanding Courses in Geomatics MSc",
+                "ExperienceType": "Education",
+                "Description": "GE7089 - Geographic Analysis and Visualization in GIS, GE7090 - Advanced Remote Sensing",
+                "Year": "2026",
+                 "YearTruncated": 2026
+
+      },
+      "geometry": {
+        "coordinates": [
+          18.05718179640519,
+          59.365469160661064
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
     ]
 }
