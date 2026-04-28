@@ -216,11 +216,11 @@ body {
 }
 
 .portfolio-container {
-  max-width: 83.3333vw;
-  /* ~10/12 width */
+  max-width: 85vw;
+  /* Increased from ~10/12 to ~95% width for wider layout */
   margin: 0 auto;
-  padding: 10vh 10vw 10vh;
-  /* top, left/right, bottom */
+  padding: 10vh 12vw 10vh 8vw;
+  /* top, right, bottom, left */
 }
 
 /* Masonry grid using CSS columns */
@@ -234,19 +234,20 @@ body {
 }
 
 .masonry {
-  column-count: 2;
-  column-gap: 35px;
+  display: grid;
+  grid-template-columns: 2fr 1fr; /* Left column twice as wide as right */
+  gap: 35px;
 }
 
 @media (max-width: 992px) {
   .masonry {
-    column-count: 2;
+    grid-template-columns: 2fr 1fr;
   }
 }
 
 @media (max-width: 576px) {
   .masonry {
-    column-count: 1;
+    grid-template-columns: 1fr; /* Single column on mobile */
   }
 }
 
